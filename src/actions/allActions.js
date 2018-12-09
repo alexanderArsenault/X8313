@@ -1,0 +1,3 @@
+
+export const FETCH_MATRICES = 'FETCH_MATRICES';
+export const RECEIVE_MATRICES = 'RECEIVE_MATRICES';

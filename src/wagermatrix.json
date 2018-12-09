@@ -1,0 +1,966 @@
+[
+    {
+        "track_title": "Woodbine",
+        "track_symbol": "WDB",
+        "races": [
+            {
+                "race_id": "WDB_18-12-09_1",
+                "risk_matrix": [
+                    {
+                        "CAUSEWAYRUNNER": "0",
+                        "PENDLETON": "0",
+                        "WRAPPED": "0",
+                        "WILMASIRISHROVER": "0",
+                        "DYNAMICRULER": "0",
+                        "FIVESTARKIP": "0",
+                        "ROYALALBERTHALL": "10"
+                    },
+                    {
+                        "CAUSEWAYRUNNER": "0",
+                        "PENDLETON": "0",
+                        "WRAPPED": "0",
+                        "WILMASIRISHROVER": "0",
+                        "DYNAMICRULER": "0",
+                        "FIVESTARKIP": "0",
+                        "ROYALALBERTHALL": "0"
+                    },
+                    {
+                        "CAUSEWAYRUNNER": "0",
+                        "PENDLETON": "0",
+                        "WRAPPED": "0",
+                        "WILMASIRISHROVER": "0",
+                        "DYNAMICRULER": "0",
+                        "FIVESTARKIP": "0",
+                        "ROYALALBERTHALL": "0"
+                    },
+                    {
+                        "CAUSEWAYRUNNER": "0",
+                        "PENDLETON": "0",
+                        "WRAPPED": "0",
+                        "WILMASIRISHROVER": "0",
+                        "DYNAMICRULER": "0",
+                        "FIVESTARKIP": "0",
+                        "ROYALALBERTHALL": "0"
+                    },
+                    {
+                        "CAUSEWAYRUNNER": "0",
+                        "PENDLETON": "0",
+                        "WRAPPED": "0",
+                        "WILMASIRISHROVER": "0",
+                        "DYNAMICRULER": "0",
+                        "FIVESTARKIP": "0",
+                        "ROYALALBERTHALL": "0"
+                    },
+                    {
+                        "CAUSEWAYRUNNER": "0",
+                        "PENDLETON": "0",
+                        "WRAPPED": "0",
+                        "WILMASIRISHROVER": "0",
+                        "DYNAMICRULER": "0",
+                        "FIVESTARKIP": "0",
+                        "ROYALALBERTHALL": "0"
+                    },
+                    {
+                        "CAUSEWAYRUNNER": "0",
+                        "PENDLETON": "0",
+                        "WRAPPED": "0",
+                        "WILMASIRISHROVER": "0",
+                        "DYNAMICRULER": "0",
+                        "FIVESTARKIP": "0",
+                        "ROYALALBERTHALL": "0"
+                    }
+                ]
+            },
+            {
+                "race_id": "WDB_18-12-09_2",
+                "risk_matrix": [
+                    {
+                        "LANKYKONG": "10",
+                        "DIDDYKONG": "5",
+                        "DONKEYKONG": "0",
+                        "REPTAR": "0",
+                        "DANGERDAVE": "0",
+                        "SKIPPY": "0",
+                        "SKYFALL": "2"
+                    },
+                    {
+                        "LANKYKONG": "5",
+                        "DIDDYKONG": "2",
+                        "DONKEYKONG": "0",
+                        "REPTAR": "0",
+                        "DANGERDAVE": "0",
+                        "SKIPPY": "0",
+                        "SKYFALL": "1"
+                    },
+                    {
+                        "LANKYKONG": "1",
+                        "DIDDYKONG": "1",
+                        "DONKEYKONG": "0",
+                        "REPTAR": "3",
+                        "DANGERDAVE": "0",
+                        "SKIPPY": "0",
+                        "SKYFALL": "1"
+                    },
+                    {
+                        "LANKYKONG": "0",
+                        "DIDDYKONG": "0",
+                        "DONKEYKONG": "0",
+                        "REPTAR": "0",
+                        "DANGERDAVE": "0",
+                        "SKIPPY": "0",
+                        "SKYFALL": "0"
+                    },
+                    {
+                        "LANKYKONG": "0",
+                        "DIDDYKONG": "0",
+                        "DONKEYKONG": "0",
+                        "REPTAR": "0",
+                        "DANGERDAVE": "0",
+                        "SKIPPY": "0",
+                        "SKYFALL": "0"
+                    },
+                    {
+                        "LANKYKONG": "0",
+                        "DIDDYKONG": "0",
+                        "DONKEYKONG": "0",
+                        "REPTAR": "0",
+                        "DANGERDAVE": "0",
+                        "SKIPPY": "0",
+                        "SKYFALL": "0"
+                    },
+                    {
+                        "LANKYKONG": "0",
+                        "DIDDYKONG": "0",
+                        "DONKEYKONG": "0",
+                        "REPTAR": "0",
+                        "DANGERDAVE": "0",
+                        "SKIPPY": "0",
+                        "SKYFALL": "0"
+                    }
+                ]
+            },
+            {
+                "race_id": "WDB_18-12-09_3",
+                "risk_matrix": [
+                    {
+                        "LANKYKONG": "10",
+                        "DIDDYKONG": "5",
+                        "DONKEYKONG": "0",
+                        "REPTAR": "0",
+                        "DANGERDAVE": "0",
+                        "SKIPPY": "0",
+                        "SKYFALL": "2"
+                    },
+                    {
+                        "LANKYKONG": "5",
+                        "DIDDYKONG": "2",
+                        "DONKEYKONG": "0",
+                        "REPTAR": "0",
+                        "DANGERDAVE": "0",
+                        "SKIPPY": "0",
+                        "SKYFALL": "1"
+                    },
+                    {
+                        "LANKYKONG": "1",
+                        "DIDDYKONG": "1",
+                        "DONKEYKONG": "0",
+                        "REPTAR": "3",
+                        "DANGERDAVE": "0",
+                        "SKIPPY": "0",
+                        "SKYFALL": "1"
+                    },
+                    {
+                        "LANKYKONG": "0",
+                        "DIDDYKONG": "0",
+                        "DONKEYKONG": "0",
+                        "REPTAR": "0",
+                        "DANGERDAVE": "0",
+                        "SKIPPY": "0",
+                        "SKYFALL": "0"
+                    },
+                    {
+                        "LANKYKONG": "0",
+                        "DIDDYKONG": "0",
+                        "DONKEYKONG": "0",
+                        "REPTAR": "0",
+                        "DANGERDAVE": "0",
+                        "SKIPPY": "0",
+                        "SKYFALL": "0"
+                    },
+                    {
+                        "LANKYKONG": "0",
+                        "DIDDYKONG": "0",
+                        "DONKEYKONG": "0",
+                        "REPTAR": "0",
+                        "DANGERDAVE": "0",
+                        "SKIPPY": "0",
+                        "SKYFALL": "0"
+                    },
+                    {
+                        "LANKYKONG": "0",
+                        "DIDDYKONG": "0",
+                        "DONKEYKONG": "0",
+                        "REPTAR": "0",
+                        "DANGERDAVE": "0",
+                        "SKIPPY": "0",
+                        "SKYFALL": "0"
+                    }
+                ]
+            },
+            {
+                "race_id": "WDB_18-12-09_4",
+                "risk_matrix": [
+                    {
+                        "LANKYKONG": "10",
+                        "DIDDYKONG": "5",
+                        "DONKEYKONG": "0",
+                        "REPTAR": "0",
+                        "DANGERDAVE": "0",
+                        "SKIPPY": "0",
+                        "SKYFALL": "2"
+                    },
+                    {
+                        "LANKYKONG": "5",
+                        "DIDDYKONG": "2",
+                        "DONKEYKONG": "0",
+                        "REPTAR": "0",
+                        "DANGERDAVE": "0",
+                        "SKIPPY": "0",
+                        "SKYFALL": "1"
+                    },
+                    {
+                        "LANKYKONG": "1",
+                        "DIDDYKONG": "1",
+                        "DONKEYKONG": "0",
+                        "REPTAR": "3",
+                        "DANGERDAVE": "0",
+                        "SKIPPY": "0",
+                        "SKYFALL": "1"
+                    },
+                    {
+                        "LANKYKONG": "0",
+                        "DIDDYKONG": "0",
+                        "DONKEYKONG": "0",
+                        "REPTAR": "0",
+                        "DANGERDAVE": "0",
+                        "SKIPPY": "0",
+                        "SKYFALL": "0"
+                    },
+                    {
+                        "LANKYKONG": "0",
+                        "DIDDYKONG": "0",
+                        "DONKEYKONG": "0",
+                        "REPTAR": "0",
+                        "DANGERDAVE": "0",
+                        "SKIPPY": "0",
+                        "SKYFALL": "0"
+                    },
+                    {
+                        "LANKYKONG": "0",
+                        "DIDDYKONG": "0",
+                        "DONKEYKONG": "0",
+                        "REPTAR": "0",
+                        "DANGERDAVE": "0",
+                        "SKIPPY": "0",
+                        "SKYFALL": "0"
+                    },
+                    {
+                        "LANKYKONG": "0",
+                        "DIDDYKONG": "0",
+                        "DONKEYKONG": "0",
+                        "REPTAR": "0",
+                        "DANGERDAVE": "0",
+                        "SKIPPY": "0",
+                        "SKYFALL": "0"
+                    }
+                ]
+            },
+            {
+                "race_id": "WDB_18-12-09_5",
+                "risk_matrix": [
+                    {
+                        "LANKYKONG": "10",
+                        "DIDDYKONG": "5",
+                        "DONKEYKONG": "0",
+                        "REPTAR": "0",
+                        "DANGERDAVE": "0",
+                        "SKIPPY": "0",
+                        "SKYFALL": "2"
+                    },
+                    {
+                        "LANKYKONG": "5",
+                        "DIDDYKONG": "2",
+                        "DONKEYKONG": "0",
+                        "REPTAR": "0",
+                        "DANGERDAVE": "0",
+                        "SKIPPY": "0",
+                        "SKYFALL": "1"
+                    },
+                    {
+                        "LANKYKONG": "1",
+                        "DIDDYKONG": "1",
+                        "DONKEYKONG": "0",
+                        "REPTAR": "3",
+                        "DANGERDAVE": "0",
+                        "SKIPPY": "0",
+                        "SKYFALL": "1"
+                    },
+                    {
+                        "LANKYKONG": "0",
+                        "DIDDYKONG": "0",
+                        "DONKEYKONG": "0",
+                        "REPTAR": "0",
+                        "DANGERDAVE": "0",
+                        "SKIPPY": "0",
+                        "SKYFALL": "0"
+                    },
+                    {
+                        "LANKYKONG": "0",
+                        "DIDDYKONG": "0",
+                        "DONKEYKONG": "0",
+                        "REPTAR": "0",
+                        "DANGERDAVE": "0",
+                        "SKIPPY": "0",
+                        "SKYFALL": "0"
+                    },
+                    {
+                        "LANKYKONG": "0",
+                        "DIDDYKONG": "0",
+                        "DONKEYKONG": "0",
+                        "REPTAR": "0",
+                        "DANGERDAVE": "0",
+                        "SKIPPY": "0",
+                        "SKYFALL": "0"
+                    },
+                    {
+                        "LANKYKONG": "0",
+                        "DIDDYKONG": "0",
+                        "DONKEYKONG": "0",
+                        "REPTAR": "0",
+                        "DANGERDAVE": "0",
+                        "SKIPPY": "0",
+                        "SKYFALL": "0"
+                    }
+                ]
+            },
+            {
+                "race_id": "WDB_18-12-09_6",
+                "risk_matrix": [
+                    {
+                        "LANKYKONG": "10",
+                        "DIDDYKONG": "5",
+                        "DONKEYKONG": "0",
+                        "REPTAR": "0",
+                        "DANGERDAVE": "0",
+                        "SKIPPY": "0",
+                        "SKYFALL": "2"
+                    },
+                    {
+                        "LANKYKONG": "5",
+                        "DIDDYKONG": "2",
+                        "DONKEYKONG": "0",
+                        "REPTAR": "0",
+                        "DANGERDAVE": "0",
+                        "SKIPPY": "0",
+                        "SKYFALL": "1"
+                    },
+                    {
+                        "LANKYKONG": "1",
+                        "DIDDYKONG": "1",
+                        "DONKEYKONG": "0",
+                        "REPTAR": "3",
+                        "DANGERDAVE": "0",
+                        "SKIPPY": "0",
+                        "SKYFALL": "1"
+                    },
+                    {
+                        "LANKYKONG": "0",
+                        "DIDDYKONG": "0",
+                        "DONKEYKONG": "0",
+                        "REPTAR": "0",
+                        "DANGERDAVE": "0",
+                        "SKIPPY": "0",
+                        "SKYFALL": "0"
+                    },
+                    {
+                        "LANKYKONG": "0",
+                        "DIDDYKONG": "0",
+                        "DONKEYKONG": "0",
+                        "REPTAR": "0",
+                        "DANGERDAVE": "0",
+                        "SKIPPY": "0",
+                        "SKYFALL": "0"
+                    },
+                    {
+                        "LANKYKONG": "0",
+                        "DIDDYKONG": "0",
+                        "DONKEYKONG": "0",
+                        "REPTAR": "0",
+                        "DANGERDAVE": "0",
+                        "SKIPPY": "0",
+                        "SKYFALL": "0"
+                    },
+                    {
+                        "LANKYKONG": "0",
+                        "DIDDYKONG": "0",
+                        "DONKEYKONG": "0",
+                        "REPTAR": "0",
+                        "DANGERDAVE": "0",
+                        "SKIPPY": "0",
+                        "SKYFALL": "0"
+                    }
+                ]
+            },
+            {
+                "race_id": "WDB_18-12-09_7",
+                "risk_matrix": [
+                    {
+                        "LANKYKONG": "10",
+                        "DIDDYKONG": "5",
+                        "DONKEYKONG": "0",
+                        "REPTAR": "0",
+                        "DANGERDAVE": "0",
+                        "SKIPPY": "0",
+                        "SKYFALL": "2"
+                    },
+                    {
+                        "LANKYKONG": "5",
+                        "DIDDYKONG": "2",
+                        "DONKEYKONG": "0",
+                        "REPTAR": "0",
+                        "DANGERDAVE": "0",
+                        "SKIPPY": "0",
+                        "SKYFALL": "1"
+                    },
+                    {
+                        "LANKYKONG": "1",
+                        "DIDDYKONG": "1",
+                        "DONKEYKONG": "0",
+                        "REPTAR": "3",
+                        "DANGERDAVE": "0",
+                        "SKIPPY": "0",
+                        "SKYFALL": "1"
+                    },
+                    {
+                        "LANKYKONG": "0",
+                        "DIDDYKONG": "0",
+                        "DONKEYKONG": "0",
+                        "REPTAR": "0",
+                        "DANGERDAVE": "0",
+                        "SKIPPY": "0",
+                        "SKYFALL": "0"
+                    },
+                    {
+                        "LANKYKONG": "0",
+                        "DIDDYKONG": "0",
+                        "DONKEYKONG": "0",
+                        "REPTAR": "0",
+                        "DANGERDAVE": "0",
+                        "SKIPPY": "0",
+                        "SKYFALL": "0"
+                    },
+                    {
+                        "LANKYKONG": "0",
+                        "DIDDYKONG": "0",
+                        "DONKEYKONG": "0",
+                        "REPTAR": "0",
+                        "DANGERDAVE": "0",
+                        "SKIPPY": "0",
+                        "SKYFALL": "0"
+                    },
+                    {
+                        "LANKYKONG": "0",
+                        "DIDDYKONG": "0",
+                        "DONKEYKONG": "0",
+                        "REPTAR": "0",
+                        "DANGERDAVE": "0",
+                        "SKIPPY": "0",
+                        "SKYFALL": "0"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "track_title": "Gerrard",
+        "track_symbol": "GRD",
+        "races": [
+            {
+                "race_id": "GRD_18-12-09_1",
+                "risk_matrix": [
+                    {
+                        "CAUSEWAYRUNNER": "0",
+                        "PENDLETON": "0",
+                        "WRAPPED": "0",
+                        "WILMASIRISHROVER": "0",
+                        "DYNAMICRULER": "0",
+                        "FIVESTARKIP": "0",
+                        "ROYALALBERTHALL": "10"
+                    },
+                    {
+                        "CAUSEWAYRUNNER": "0",
+                        "PENDLETON": "0",
+                        "WRAPPED": "0",
+                        "WILMASIRISHROVER": "0",
+                        "DYNAMICRULER": "0",
+                        "FIVESTARKIP": "0",
+                        "ROYALALBERTHALL": "0"
+                    },
+                    {
+                        "CAUSEWAYRUNNER": "0",
+                        "PENDLETON": "0",
+                        "WRAPPED": "0",
+                        "WILMASIRISHROVER": "0",
+                        "DYNAMICRULER": "0",
+                        "FIVESTARKIP": "0",
+                        "ROYALALBERTHALL": "0"
+                    },
+                    {
+                        "CAUSEWAYRUNNER": "0",
+                        "PENDLETON": "0",
+                        "WRAPPED": "0",
+                        "WILMASIRISHROVER": "0",
+                        "DYNAMICRULER": "0",
+                        "FIVESTARKIP": "0",
+                        "ROYALALBERTHALL": "0"
+                    },
+                    {
+                        "CAUSEWAYRUNNER": "0",
+                        "PENDLETON": "0",
+                        "WRAPPED": "0",
+                        "WILMASIRISHROVER": "0",
+                        "DYNAMICRULER": "0",
+                        "FIVESTARKIP": "0",
+                        "ROYALALBERTHALL": "0"
+                    },
+                    {
+                        "CAUSEWAYRUNNER": "0",
+                        "PENDLETON": "0",
+                        "WRAPPED": "0",
+                        "WILMASIRISHROVER": "0",
+                        "DYNAMICRULER": "0",
+                        "FIVESTARKIP": "0",
+                        "ROYALALBERTHALL": "0"
+                    },
+                    {
+                        "CAUSEWAYRUNNER": "0",
+                        "PENDLETON": "0",
+                        "WRAPPED": "0",
+                        "WILMASIRISHROVER": "0",
+                        "DYNAMICRULER": "0",
+                        "FIVESTARKIP": "0",
+                        "ROYALALBERTHALL": "0"
+                    }
+                ]
+            },
+            {
+                "race_id": "GRD_18-12-09_2",
+                "risk_matrix": [
+                    {
+                        "LANKYKONG": "10",
+                        "DIDDYKONG": "5",
+                        "DONKEYKONG": "0",
+                        "REPTAR": "0",
+                        "DANGERDAVE": "0",
+                        "SKIPPY": "0",
+                        "SKYFALL": "2"
+                    },
+                    {
+                        "LANKYKONG": "5",
+                        "DIDDYKONG": "2",
+                        "DONKEYKONG": "0",
+                        "REPTAR": "0",
+                        "DANGERDAVE": "0",
+                        "SKIPPY": "0",
+                        "SKYFALL": "1"
+                    },
+                    {
+                        "LANKYKONG": "1",
+                        "DIDDYKONG": "1",
+                        "DONKEYKONG": "0",
+                        "REPTAR": "3",
+                        "DANGERDAVE": "0",
+                        "SKIPPY": "0",
+                        "SKYFALL": "1"
+                    },
+                    {
+                        "LANKYKONG": "0",
+                        "DIDDYKONG": "0",
+                        "DONKEYKONG": "0",
+                        "REPTAR": "0",
+                        "DANGERDAVE": "0",
+                        "SKIPPY": "0",
+                        "SKYFALL": "0"
+                    },
+                    {
+                        "LANKYKONG": "0",
+                        "DIDDYKONG": "0",
+                        "DONKEYKONG": "0",
+                        "REPTAR": "0",
+                        "DANGERDAVE": "0",
+                        "SKIPPY": "0",
+                        "SKYFALL": "0"
+                    },
+                    {
+                        "LANKYKONG": "0",
+                        "DIDDYKONG": "0",
+                        "DONKEYKONG": "0",
+                        "REPTAR": "0",
+                        "DANGERDAVE": "0",
+                        "SKIPPY": "0",
+                        "SKYFALL": "0"
+                    },
+                    {
+                        "LANKYKONG": "0",
+                        "DIDDYKONG": "0",
+                        "DONKEYKONG": "0",
+                        "REPTAR": "0",
+                        "DANGERDAVE": "0",
+                        "SKIPPY": "0",
+                        "SKYFALL": "0"
+                    }
+                ]
+            },
+            {
+                "race_id": "GRD_18-12-09_3",
+                "risk_matrix": [
+                    {
+                        "LANKYKONG": "10",
+                        "DIDDYKONG": "5",
+                        "DONKEYKONG": "0",
+                        "REPTAR": "0",
+                        "DANGERDAVE": "0",
+                        "SKIPPY": "0",
+                        "SKYFALL": "2"
+                    },
+                    {
+                        "LANKYKONG": "5",
+                        "DIDDYKONG": "2",
+                        "DONKEYKONG": "0",
+                        "REPTAR": "0",
+                        "DANGERDAVE": "0",
+                        "SKIPPY": "0",
+                        "SKYFALL": "1"
+                    },
+                    {
+                        "LANKYKONG": "1",
+                        "DIDDYKONG": "1",
+                        "DONKEYKONG": "0",
+                        "REPTAR": "3",
+                        "DANGERDAVE": "0",
+                        "SKIPPY": "0",
+                        "SKYFALL": "1"
+                    },
+                    {
+                        "LANKYKONG": "0",
+                        "DIDDYKONG": "0",
+                        "DONKEYKONG": "0",
+                        "REPTAR": "0",
+                        "DANGERDAVE": "0",
+                        "SKIPPY": "0",
+                        "SKYFALL": "0"
+                    },
+                    {
+                        "LANKYKONG": "0",
+                        "DIDDYKONG": "0",
+                        "DONKEYKONG": "0",
+                        "REPTAR": "0",
+                        "DANGERDAVE": "0",
+                        "SKIPPY": "0",
+                        "SKYFALL": "0"
+                    },
+                    {
+                        "LANKYKONG": "0",
+                        "DIDDYKONG": "0",
+                        "DONKEYKONG": "0",
+                        "REPTAR": "0",
+                        "DANGERDAVE": "0",
+                        "SKIPPY": "0",
+                        "SKYFALL": "0"
+                    },
+                    {
+                        "LANKYKONG": "0",
+                        "DIDDYKONG": "0",
+                        "DONKEYKONG": "0",
+                        "REPTAR": "0",
+                        "DANGERDAVE": "0",
+                        "SKIPPY": "0",
+                        "SKYFALL": "0"
+                    }
+                ]
+            },
+            {
+                "race_id": "GRD_18-12-09_4",
+                "risk_matrix": [
+                    {
+                        "LANKYKONG": "10",
+                        "DIDDYKONG": "5",
+                        "DONKEYKONG": "0",
+                        "REPTAR": "0",
+                        "DANGERDAVE": "0",
+                        "SKIPPY": "0",
+                        "SKYFALL": "2"
+                    },
+                    {
+                        "LANKYKONG": "5",
+                        "DIDDYKONG": "2",
+                        "DONKEYKONG": "0",
+                        "REPTAR": "0",
+                        "DANGERDAVE": "0",
+                        "SKIPPY": "0",
+                        "SKYFALL": "1"
+                    },
+                    {
+                        "LANKYKONG": "1",
+                        "DIDDYKONG": "1",
+                        "DONKEYKONG": "0",
+                        "REPTAR": "3",
+                        "DANGERDAVE": "0",
+                        "SKIPPY": "0",
+                        "SKYFALL": "1"
+                    },
+                    {
+                        "LANKYKONG": "0",
+                        "DIDDYKONG": "0",
+                        "DONKEYKONG": "0",
+                        "REPTAR": "0",
+                        "DANGERDAVE": "0",
+                        "SKIPPY": "0",
+                        "SKYFALL": "0"
+                    },
+                    {
+                        "LANKYKONG": "0",
+                        "DIDDYKONG": "0",
+                        "DONKEYKONG": "0",
+                        "REPTAR": "0",
+                        "DANGERDAVE": "0",
+                        "SKIPPY": "0",
+                        "SKYFALL": "0"
+                    },
+                    {
+                        "LANKYKONG": "0",
+                        "DIDDYKONG": "0",
+                        "DONKEYKONG": "0",
+                        "REPTAR": "0",
+                        "DANGERDAVE": "0",
+                        "SKIPPY": "0",
+                        "SKYFALL": "0"
+                    },
+                    {
+                        "LANKYKONG": "0",
+                        "DIDDYKONG": "0",
+                        "DONKEYKONG": "0",
+                        "REPTAR": "0",
+                        "DANGERDAVE": "0",
+                        "SKIPPY": "0",
+                        "SKYFALL": "0"
+                    }
+                ]
+            },
+            {
+                "race_id": "GRD_18-12-09_5",
+                "risk_matrix": [
+                    {
+                        "LANKYKONG": "10",
+                        "DIDDYKONG": "5",
+                        "DONKEYKONG": "0",
+                        "REPTAR": "0",
+                        "DANGERDAVE": "0",
+                        "SKIPPY": "0",
+                        "SKYFALL": "2"
+                    },
+                    {
+                        "LANKYKONG": "5",
+                        "DIDDYKONG": "2",
+                        "DONKEYKONG": "0",
+                        "REPTAR": "0",
+                        "DANGERDAVE": "0",
+                        "SKIPPY": "0",
+                        "SKYFALL": "1"
+                    },
+                    {
+                        "LANKYKONG": "1",
+                        "DIDDYKONG": "1",
+                        "DONKEYKONG": "0",
+                        "REPTAR": "3",
+                        "DANGERDAVE": "0",
+                        "SKIPPY": "0",
+                        "SKYFALL": "1"
+                    },
+                    {
+                        "LANKYKONG": "0",
+                        "DIDDYKONG": "0",
+                        "DONKEYKONG": "0",
+                        "REPTAR": "0",
+                        "DANGERDAVE": "0",
+                        "SKIPPY": "0",
+                        "SKYFALL": "0"
+                    },
+                    {
+                        "LANKYKONG": "0",
+                        "DIDDYKONG": "0",
+                        "DONKEYKONG": "0",
+                        "REPTAR": "0",
+                        "DANGERDAVE": "0",
+                        "SKIPPY": "0",
+                        "SKYFALL": "0"
+                    },
+                    {
+                        "LANKYKONG": "0",
+                        "DIDDYKONG": "0",
+                        "DONKEYKONG": "0",
+                        "REPTAR": "0",
+                        "DANGERDAVE": "0",
+                        "SKIPPY": "0",
+                        "SKYFALL": "0"
+                    },
+                    {
+                        "LANKYKONG": "0",
+                        "DIDDYKONG": "0",
+                        "DONKEYKONG": "0",
+                        "REPTAR": "0",
+                        "DANGERDAVE": "0",
+                        "SKIPPY": "0",
+                        "SKYFALL": "0"
+                    }
+                ]
+            },
+            {
+                "race_id": "GRD_18-12-09_6",
+                "risk_matrix": [
+                    {
+                        "LANKYKONG": "10",
+                        "DIDDYKONG": "5",
+                        "DONKEYKONG": "0",
+                        "REPTAR": "0",
+                        "DANGERDAVE": "0",
+                        "SKIPPY": "0",
+                        "SKYFALL": "2"
+                    },
+                    {
+                        "LANKYKONG": "5",
+                        "DIDDYKONG": "2",
+                        "DONKEYKONG": "0",
+                        "REPTAR": "0",
+                        "DANGERDAVE": "0",
+                        "SKIPPY": "0",
+                        "SKYFALL": "1"
+                    },
+                    {
+                        "LANKYKONG": "1",
+                        "DIDDYKONG": "1",
+                        "DONKEYKONG": "0",
+                        "REPTAR": "3",
+                        "DANGERDAVE": "0",
+                        "SKIPPY": "0",
+                        "SKYFALL": "1"
+                    },
+                    {
+                        "LANKYKONG": "0",
+                        "DIDDYKONG": "0",
+                        "DONKEYKONG": "0",
+                        "REPTAR": "0",
+                        "DANGERDAVE": "0",
+                        "SKIPPY": "0",
+                        "SKYFALL": "0"
+                    },
+                    {
+                        "LANKYKONG": "0",
+                        "DIDDYKONG": "0",
+                        "DONKEYKONG": "0",
+                        "REPTAR": "0",
+                        "DANGERDAVE": "0",
+                        "SKIPPY": "0",
+                        "SKYFALL": "0"
+                    },
+                    {
+                        "LANKYKONG": "0",
+                        "DIDDYKONG": "0",
+                        "DONKEYKONG": "0",
+                        "REPTAR": "0",
+                        "DANGERDAVE": "0",
+                        "SKIPPY": "0",
+                        "SKYFALL": "0"
+                    },
+                    {
+                        "LANKYKONG": "0",
+                        "DIDDYKONG": "0",
+                        "DONKEYKONG": "0",
+                        "REPTAR": "0",
+                        "DANGERDAVE": "0",
+                        "SKIPPY": "0",
+                        "SKYFALL": "0"
+                    }
+                ]
+            },
+            {
+                "race_id": "GRD_18-12-09_7",
+                "risk_matrix": [
+                    {
+                        "LANKYKONG": "10",
+                        "DIDDYKONG": "5",
+                        "DONKEYKONG": "0",
+                        "REPTAR": "0",
+                        "DANGERDAVE": "0",
+                        "SKIPPY": "0",
+                        "SKYFALL": "2"
+                    },
+                    {
+                        "LANKYKONG": "5",
+                        "DIDDYKONG": "2",
+                        "DONKEYKONG": "0",
+                        "REPTAR": "0",
+                        "DANGERDAVE": "0",
+                        "SKIPPY": "0",
+                        "SKYFALL": "1"
+                    },
+                    {
+                        "LANKYKONG": "1",
+                        "DIDDYKONG": "1",
+                        "DONKEYKONG": "0",
+                        "REPTAR": "3",
+                        "DANGERDAVE": "0",
+                        "SKIPPY": "0",
+                        "SKYFALL": "1"
+                    },
+                    {
+                        "LANKYKONG": "0",
+                        "DIDDYKONG": "0",
+                        "DONKEYKONG": "0",
+                        "REPTAR": "0",
+                        "DANGERDAVE": "0",
+                        "SKIPPY": "0",
+                        "SKYFALL": "0"
+                    },
+                    {
+                        "LANKYKONG": "0",
+                        "DIDDYKONG": "0",
+                        "DONKEYKONG": "0",
+                        "REPTAR": "0",
+                        "DANGERDAVE": "0",
+                        "SKIPPY": "0",
+                        "SKYFALL": "0"
+                    },
+                    {
+                        "LANKYKONG": "0",
+                        "DIDDYKONG": "0",
+                        "DONKEYKONG": "0",
+                        "REPTAR": "0",
+                        "DANGERDAVE": "0",
+                        "SKIPPY": "0",
+                        "SKYFALL": "0"
+                    },
+                    {
+                        "LANKYKONG": "0",
+                        "DIDDYKONG": "0",
+                        "DONKEYKONG": "0",
+                        "REPTAR": "0",
+                        "DANGERDAVE": "0",
+                        "SKIPPY": "0",
+                        "SKYFALL": "0"
+                    }
+                ]
+            }
+        ]
+    }
+]
