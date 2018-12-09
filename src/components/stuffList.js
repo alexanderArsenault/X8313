@@ -9,8 +9,25 @@ class stuffList extends React.Component {
         this.props.matricesActions.fetchMatrices();
     }
 
-    renderData(item, index) {
-        return <div key={item.index}>{item.track_title}</div>;
+    renderTracks(track, index) {
+        return (
+            <div key={index}>
+            <h3> {track.track_title} </h3>
+                {
+                    track.races.map((race) => {
+                        return (
+                            this.renderRaces(race)
+                        );
+                    })
+                }
+            </div>
+        )
+    }
+    
+    renderRaces(race) {
+        return (
+            <div key={race}>{race.race_id}</div>
+        )
     }
 
     render() {
@@ -24,10 +41,13 @@ class stuffList extends React.Component {
             return (
                 <div className="">
                 <h1>Hello World</h1>
+                <h2>
+                    Track Titles
+                </h2>
                     {
                         this.props.matrices.map((item, index) => {
                             return (
-                                this.renderData(item, index)
+                                this.renderTracks(item, index)
                             );
                         })
                     }
