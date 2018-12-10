@@ -1,12 +1,12 @@
 import React, { Component } from 'react';
-import StuffList from './components/stuffList';
+import Dashboard from './components/Dashboard';
 import './styles/init.scss';
 
 class App extends Component {
     render() {
         return (
             <div className="app">
-                <StuffList />
+                <Dashboard />
             </div>
         );
     }

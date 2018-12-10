@@ -29,3 +29,11 @@ export function fetchMatrices() {
       });
   };
 }
+
+export function setTrack(data) {
+  return { type: allActions.SET_TRACK, activeTrack: data };
+}
+
+export function setRace(data) {
+  return { type: allActions.SET_RACE, activeRace: data };
+}

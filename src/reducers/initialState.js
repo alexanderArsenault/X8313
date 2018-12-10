@@ -1,3 +1,5 @@
 export default {
-    matrices: []
+    matrices: [],
+    activeTrack: '',
+    activeRace: '',
 }
