@@ -4,478 +4,218 @@
         "track_symbol": "WDB",
         "races": [
             {
-                "race_id": "WDB_18-12-09_1",
+                "race_id": "WDB_181209_1",
                 "risk_matrix": [
                     {
-                        "CAUSEWAYRUNNER": "0",
-                        "PENDLETON": "0",
-                        "WRAPPED": "0",
-                        "WILMASIRISHROVER": "0",
-                        "DYNAMICRULER": "0",
-                        "FIVESTARKIP": "0",
-                        "ROYALALBERTHALL": "10"
+                        "horse": "CAUSEWAYRUNNER",
+                        "place1": "0",
+                        "place2": "0",
+                        "place3": "10",
+                        "place4": "0"
                     },
                     {
-                        "CAUSEWAYRUNNER": "0",
-                        "PENDLETON": "0",
-                        "WRAPPED": "0",
-                        "WILMASIRISHROVER": "0",
-                        "DYNAMICRULER": "0",
-                        "FIVESTARKIP": "0",
-                        "ROYALALBERTHALL": "0"
+                        "horse": "PENDLETON",
+                        "place1": "5",
+                        "place2": "2",
+                        "place3": "10",
+                        "place4": "0"
                     },
                     {
-                        "CAUSEWAYRUNNER": "0",
-                        "PENDLETON": "0",
-                        "WRAPPED": "0",
-                        "WILMASIRISHROVER": "0",
-                        "DYNAMICRULER": "0",
-                        "FIVESTARKIP": "0",
-                        "ROYALALBERTHALL": "0"
+                        "horse": "WRAPPED",
+                        "place1": "0",
+                        "place2": "20",
+                        "place3": "10",
+                        "place4": "0"
                     },
                     {
-                        "CAUSEWAYRUNNER": "0",
-                        "PENDLETON": "0",
-                        "WRAPPED": "0",
-                        "WILMASIRISHROVER": "0",
-                        "DYNAMICRULER": "0",
-                        "FIVESTARKIP": "0",
-                        "ROYALALBERTHALL": "0"
+                        "horse": "WILMASIRSHROVER",
+                        "place1": "0",
+                        "place2": "0",
+                        "place3": "10",
+                        "place4": "0"
                     },
                     {
-                        "CAUSEWAYRUNNER": "0",
-                        "PENDLETON": "0",
-                        "WRAPPED": "0",
-                        "WILMASIRISHROVER": "0",
-                        "DYNAMICRULER": "0",
-                        "FIVESTARKIP": "0",
-                        "ROYALALBERTHALL": "0"
+                        "horse": "DYNAMICRULER",
+                        "place1": "0",
+                        "place2": "0",
+                        "place3": "10",
+                        "place4": "0"
                     },
                     {
-                        "CAUSEWAYRUNNER": "0",
-                        "PENDLETON": "0",
-                        "WRAPPED": "0",
-                        "WILMASIRISHROVER": "0",
-                        "DYNAMICRULER": "0",
-                        "FIVESTARKIP": "0",
-                        "ROYALALBERTHALL": "0"
+                        "horse": "FIVESTARKIP",
+                        "place1": "0",
+                        "place2": "0",
+                        "place3": "10",
+                        "place4": "0"
                     },
                     {
-                        "CAUSEWAYRUNNER": "0",
-                        "PENDLETON": "0",
-                        "WRAPPED": "0",
-                        "WILMASIRISHROVER": "0",
-                        "DYNAMICRULER": "0",
-                        "FIVESTARKIP": "0",
-                        "ROYALALBERTHALL": "0"
+                        "horse": "ROYALALBERTHALL",
+                        "place1": "0",
+                        "place2": "0",
+                        "place3": "10",
+                        "place4": "0"
                     }
                 ]
             },
             {
-                "race_id": "WDB_18-12-09_2",
+                "race_id": "WDB_181209_2",
                 "risk_matrix": [
                     {
-                        "LANKYKONG": "10",
-                        "DIDDYKONG": "5",
-                        "DONKEYKONG": "0",
-                        "REPTAR": "0",
-                        "DANGERDAVE": "0",
-                        "SKIPPY": "0",
-                        "SKYFALL": "2"
+                        "horse": "DANKYKANG",
+                        "place1": "0",
+                        "place2": "0",
+                        "place3": "10",
+                        "place4": "0"
                     },
                     {
-                        "LANKYKONG": "5",
-                        "DIDDYKONG": "2",
-                        "DONKEYKONG": "0",
-                        "REPTAR": "0",
-                        "DANGERDAVE": "0",
-                        "SKIPPY": "0",
-                        "SKYFALL": "1"
+                        "horse": "DIDDYKONG",
+                        "place1": "5",
+                        "place2": "2",
+                        "place3": "10",
+                        "place4": "0"
                     },
                     {
-                        "LANKYKONG": "1",
-                        "DIDDYKONG": "1",
-                        "DONKEYKONG": "0",
-                        "REPTAR": "3",
-                        "DANGERDAVE": "0",
-                        "SKIPPY": "0",
-                        "SKYFALL": "1"
+                        "horse": "KRULE",
+                        "place1": "0",
+                        "place2": "20",
+                        "place3": "10",
+                        "place4": "0"
                     },
                     {
-                        "LANKYKONG": "0",
-                        "DIDDYKONG": "0",
-                        "DONKEYKONG": "0",
-                        "REPTAR": "0",
-                        "DANGERDAVE": "0",
-                        "SKIPPY": "0",
-                        "SKYFALL": "0"
+                        "horse": "LANKYKANG",
+                        "place1": "0",
+                        "place2": "0",
+                        "place3": "10",
+                        "place4": "0"
                     },
                     {
-                        "LANKYKONG": "0",
-                        "DIDDYKONG": "0",
-                        "DONKEYKONG": "0",
-                        "REPTAR": "0",
-                        "DANGERDAVE": "0",
-                        "SKIPPY": "0",
-                        "SKYFALL": "0"
+                        "horse": "KIMBO",
+                        "place1": "0",
+                        "place2": "0",
+                        "place3": "10",
+                        "place4": "0"
                     },
                     {
-                        "LANKYKONG": "0",
-                        "DIDDYKONG": "0",
-                        "DONKEYKONG": "0",
-                        "REPTAR": "0",
-                        "DANGERDAVE": "0",
-                        "SKIPPY": "0",
-                        "SKYFALL": "0"
+                        "horse": "CHERIO",
+                        "place1": "0",
+                        "place2": "0",
+                        "place3": "10",
+                        "place4": "0"
                     },
                     {
-                        "LANKYKONG": "0",
-                        "DIDDYKONG": "0",
-                        "DONKEYKONG": "0",
-                        "REPTAR": "0",
-                        "DANGERDAVE": "0",
-                        "SKIPPY": "0",
-                        "SKYFALL": "0"
+                        "horse": "STEED",
+                        "place1": "0",
+                        "place2": "0",
+                        "place3": "10",
+                        "place4": "0"
                     }
                 ]
             },
             {
-                "race_id": "WDB_18-12-09_3",
+                "race_id": "WDB_181209_3",
                 "risk_matrix": [
                     {
-                        "LANKYKONG": "10",
-                        "DIDDYKONG": "5",
-                        "DONKEYKONG": "0",
-                        "REPTAR": "0",
-                        "DANGERDAVE": "0",
-                        "SKIPPY": "0",
-                        "SKYFALL": "2"
+                        "horse": "CAUSEWAYRUNNER",
+                        "place1": "0",
+                        "place2": "0",
+                        "place3": "10",
+                        "place4": "0"
                     },
                     {
-                        "LANKYKONG": "5",
-                        "DIDDYKONG": "2",
-                        "DONKEYKONG": "0",
-                        "REPTAR": "0",
-                        "DANGERDAVE": "0",
-                        "SKIPPY": "0",
-                        "SKYFALL": "1"
+                        "horse": "PENDLETON",
+                        "place1": "5",
+                        "place2": "2",
+                        "place3": "10",
+                        "place4": "0"
                     },
                     {
-                        "LANKYKONG": "1",
-                        "DIDDYKONG": "1",
-                        "DONKEYKONG": "0",
-                        "REPTAR": "3",
-                        "DANGERDAVE": "0",
-                        "SKIPPY": "0",
-                        "SKYFALL": "1"
+                        "horse": "WRAPPED",
+                        "place1": "0",
+                        "place2": "20",
+                        "place3": "10",
+                        "place4": "0"
                     },
                     {
-                        "LANKYKONG": "0",
-                        "DIDDYKONG": "0",
-                        "DONKEYKONG": "0",
-                        "REPTAR": "0",
-                        "DANGERDAVE": "0",
-                        "SKIPPY": "0",
-                        "SKYFALL": "0"
+                        "horse": "WILMASIRSHROVER",
+                        "place1": "0",
+                        "place2": "0",
+                        "place3": "10",
+                        "place4": "0"
                     },
                     {
-                        "LANKYKONG": "0",
-                        "DIDDYKONG": "0",
-                        "DONKEYKONG": "0",
-                        "REPTAR": "0",
-                        "DANGERDAVE": "0",
-                        "SKIPPY": "0",
-                        "SKYFALL": "0"
+                        "horse": "DYNAMICRULER",
+                        "place1": "0",
+                        "place2": "0",
+                        "place3": "10",
+                        "place4": "0"
                     },
                     {
-                        "LANKYKONG": "0",
-                        "DIDDYKONG": "0",
-                        "DONKEYKONG": "0",
-                        "REPTAR": "0",
-                        "DANGERDAVE": "0",
-                        "SKIPPY": "0",
-                        "SKYFALL": "0"
+                        "horse": "FIVESTARKIP",
+                        "place1": "0",
+                        "place2": "0",
+                        "place3": "10",
+                        "place4": "0"
                     },
                     {
-                        "LANKYKONG": "0",
-                        "DIDDYKONG": "0",
-                        "DONKEYKONG": "0",
-                        "REPTAR": "0",
-                        "DANGERDAVE": "0",
-                        "SKIPPY": "0",
-                        "SKYFALL": "0"
+                        "horse": "ROYALALBERTHALL",
+                        "place1": "0",
+                        "place2": "0",
+                        "place3": "10",
+                        "place4": "0"
                     }
                 ]
             },
             {
-                "race_id": "WDB_18-12-09_4",
+                "race_id": "WDB_181209_4",
                 "risk_matrix": [
                     {
-                        "LANKYKONG": "10",
-                        "DIDDYKONG": "5",
-                        "DONKEYKONG": "0",
-                        "REPTAR": "0",
-                        "DANGERDAVE": "0",
-                        "SKIPPY": "0",
-                        "SKYFALL": "2"
+                        "horse": "DANKYKANG",
+                        "place1": "0",
+                        "place2": "0",
+                        "place3": "10",
+                        "place4": "0"
                     },
                     {
-                        "LANKYKONG": "5",
-                        "DIDDYKONG": "2",
-                        "DONKEYKONG": "0",
-                        "REPTAR": "0",
-                        "DANGERDAVE": "0",
-                        "SKIPPY": "0",
-                        "SKYFALL": "1"
+                        "horse": "DIDDYKONG",
+                        "place1": "5",
+                        "place2": "2",
+                        "place3": "10",
+                        "place4": "0"
                     },
                     {
-                        "LANKYKONG": "1",
-                        "DIDDYKONG": "1",
-                        "DONKEYKONG": "0",
-                        "REPTAR": "3",
-                        "DANGERDAVE": "0",
-                        "SKIPPY": "0",
-                        "SKYFALL": "1"
+                        "horse": "KRULE",
+                        "place1": "0",
+                        "place2": "20",
+                        "place3": "10",
+                        "place4": "0"
                     },
                     {
-                        "LANKYKONG": "0",
-                        "DIDDYKONG": "0",
-                        "DONKEYKONG": "0",
-                        "REPTAR": "0",
-                        "DANGERDAVE": "0",
-                        "SKIPPY": "0",
-                        "SKYFALL": "0"
+                        "horse": "LANKYKANG",
+                        "place1": "0",
+                        "place2": "0",
+                        "place3": "10",
+                        "place4": "0"
                     },
                     {
-                        "LANKYKONG": "0",
-                        "DIDDYKONG": "0",
-                        "DONKEYKONG": "0",
-                        "REPTAR": "0",
-                        "DANGERDAVE": "0",
-                        "SKIPPY": "0",
-                        "SKYFALL": "0"
+                        "horse": "KIMBO",
+                        "place1": "0",
+                        "place2": "0",
+                        "place3": "10",
+                        "place4": "0"
                     },
                     {
-                        "LANKYKONG": "0",
-                        "DIDDYKONG": "0",
-                        "DONKEYKONG": "0",
-                        "REPTAR": "0",
-                        "DANGERDAVE": "0",
-                        "SKIPPY": "0",
-                        "SKYFALL": "0"
+                        "horse": "CHERIO",
+                        "place1": "0",
+                        "place2": "0",
+                        "place3": "10",
+                        "place4": "0"
                     },
                     {
-                        "LANKYKONG": "0",
-                        "DIDDYKONG": "0",
-                        "DONKEYKONG": "0",
-                        "REPTAR": "0",
-                        "DANGERDAVE": "0",
-                        "SKIPPY": "0",
-                        "SKYFALL": "0"
-                    }
-                ]
-            },
-            {
-                "race_id": "WDB_18-12-09_5",
-                "risk_matrix": [
-                    {
-                        "LANKYKONG": "10",
-                        "DIDDYKONG": "5",
-                        "DONKEYKONG": "0",
-                        "REPTAR": "0",
-                        "DANGERDAVE": "0",
-                        "SKIPPY": "0",
-                        "SKYFALL": "2"
-                    },
-                    {
-                        "LANKYKONG": "5",
-                        "DIDDYKONG": "2",
-                        "DONKEYKONG": "0",
-                        "REPTAR": "0",
-                        "DANGERDAVE": "0",
-                        "SKIPPY": "0",
-                        "SKYFALL": "1"
-                    },
-                    {
-                        "LANKYKONG": "1",
-                        "DIDDYKONG": "1",
-                        "DONKEYKONG": "0",
-                        "REPTAR": "3",
-                        "DANGERDAVE": "0",
-                        "SKIPPY": "0",
-                        "SKYFALL": "1"
-                    },
-                    {
-                        "LANKYKONG": "0",
-                        "DIDDYKONG": "0",
-                        "DONKEYKONG": "0",
-                        "REPTAR": "0",
-                        "DANGERDAVE": "0",
-                        "SKIPPY": "0",
-                        "SKYFALL": "0"
-                    },
-                    {
-                        "LANKYKONG": "0",
-                        "DIDDYKONG": "0",
-                        "DONKEYKONG": "0",
-                        "REPTAR": "0",
-                        "DANGERDAVE": "0",
-                        "SKIPPY": "0",
-                        "SKYFALL": "0"
-                    },
-                    {
-                        "LANKYKONG": "0",
-                        "DIDDYKONG": "0",
-                        "DONKEYKONG": "0",
-                        "REPTAR": "0",
-                        "DANGERDAVE": "0",
-                        "SKIPPY": "0",
-                        "SKYFALL": "0"
-                    },
-                    {
-                        "LANKYKONG": "0",
-                        "DIDDYKONG": "0",
-                        "DONKEYKONG": "0",
-                        "REPTAR": "0",
-                        "DANGERDAVE": "0",
-                        "SKIPPY": "0",
-                        "SKYFALL": "0"
-                    }
-                ]
-            },
-            {
-                "race_id": "WDB_18-12-09_6",
-                "risk_matrix": [
-                    {
-                        "LANKYKONG": "10",
-                        "DIDDYKONG": "5",
-                        "DONKEYKONG": "0",
-                        "REPTAR": "0",
-                        "DANGERDAVE": "0",
-                        "SKIPPY": "0",
-                        "SKYFALL": "2"
-                    },
-                    {
-                        "LANKYKONG": "5",
-                        "DIDDYKONG": "2",
-                        "DONKEYKONG": "0",
-                        "REPTAR": "0",
-                        "DANGERDAVE": "0",
-                        "SKIPPY": "0",
-                        "SKYFALL": "1"
-                    },
-                    {
-                        "LANKYKONG": "1",
-                        "DIDDYKONG": "1",
-                        "DONKEYKONG": "0",
-                        "REPTAR": "3",
-                        "DANGERDAVE": "0",
-                        "SKIPPY": "0",
-                        "SKYFALL": "1"
-                    },
-                    {
-                        "LANKYKONG": "0",
-                        "DIDDYKONG": "0",
-                        "DONKEYKONG": "0",
-                        "REPTAR": "0",
-                        "DANGERDAVE": "0",
-                        "SKIPPY": "0",
-                        "SKYFALL": "0"
-                    },
-                    {
-                        "LANKYKONG": "0",
-                        "DIDDYKONG": "0",
-                        "DONKEYKONG": "0",
-                        "REPTAR": "0",
-                        "DANGERDAVE": "0",
-                        "SKIPPY": "0",
-                        "SKYFALL": "0"
-                    },
-                    {
-                        "LANKYKONG": "0",
-                        "DIDDYKONG": "0",
-                        "DONKEYKONG": "0",
-                        "REPTAR": "0",
-                        "DANGERDAVE": "0",
-                        "SKIPPY": "0",
-                        "SKYFALL": "0"
-                    },
-                    {
-                        "LANKYKONG": "0",
-                        "DIDDYKONG": "0",
-                        "DONKEYKONG": "0",
-                        "REPTAR": "0",
-                        "DANGERDAVE": "0",
-                        "SKIPPY": "0",
-                        "SKYFALL": "0"
-                    }
-                ]
-            },
-            {
-                "race_id": "WDB_18-12-09_7",
-                "risk_matrix": [
-                    {
-                        "LANKYKONG": "10",
-                        "DIDDYKONG": "5",
-                        "DONKEYKONG": "0",
-                        "REPTAR": "0",
-                        "DANGERDAVE": "0",
-                        "SKIPPY": "0",
-                        "SKYFALL": "2"
-                    },
-                    {
-                        "LANKYKONG": "5",
-                        "DIDDYKONG": "2",
-                        "DONKEYKONG": "0",
-                        "REPTAR": "0",
-                        "DANGERDAVE": "0",
-                        "SKIPPY": "0",
-                        "SKYFALL": "1"
-                    },
-                    {
-                        "LANKYKONG": "1",
-                        "DIDDYKONG": "1",
-                        "DONKEYKONG": "0",
-                        "REPTAR": "3",
-                        "DANGERDAVE": "0",
-                        "SKIPPY": "0",
-                        "SKYFALL": "1"
-                    },
-                    {
-                        "LANKYKONG": "0",
-                        "DIDDYKONG": "0",
-                        "DONKEYKONG": "0",
-                        "REPTAR": "0",
-                        "DANGERDAVE": "0",
-                        "SKIPPY": "0",
-                        "SKYFALL": "0"
-                    },
-                    {
-                        "LANKYKONG": "0",
-                        "DIDDYKONG": "0",
-                        "DONKEYKONG": "0",
-                        "REPTAR": "0",
-                        "DANGERDAVE": "0",
-                        "SKIPPY": "0",
-                        "SKYFALL": "0"
-                    },
-                    {
-                        "LANKYKONG": "0",
-                        "DIDDYKONG": "0",
-                        "DONKEYKONG": "0",
-                        "REPTAR": "0",
-                        "DANGERDAVE": "0",
-                        "SKIPPY": "0",
-                        "SKYFALL": "0"
-                    },
-                    {
-                        "LANKYKONG": "0",
-                        "DIDDYKONG": "0",
-                        "DONKEYKONG": "0",
-                        "REPTAR": "0",
-                        "DANGERDAVE": "0",
-                        "SKIPPY": "0",
-                        "SKYFALL": "0"
+                        "horse": "STEED",
+                        "place1": "0",
+                        "place2": "0",
+                        "place3": "10",
+                        "place4": "0"
                     }
                 ]
             }
@@ -486,481 +226,222 @@
         "track_symbol": "GRD",
         "races": [
             {
-                "race_id": "GRD_18-12-09_1",
+                "race_id": "GRD_181209_1",
                 "risk_matrix": [
                     {
-                        "CAUSEWAYRUNNER": "0",
-                        "PENDLETON": "0",
-                        "WRAPPED": "0",
-                        "WILMASIRISHROVER": "0",
-                        "DYNAMICRULER": "0",
-                        "FIVESTARKIP": "0",
-                        "ROYALALBERTHALL": "10"
+                        "horse": "CAUSEWAYRUNNER",
+                        "place1": "0",
+                        "place2": "0",
+                        "place3": "10",
+                        "place4": "0"
                     },
                     {
-                        "CAUSEWAYRUNNER": "0",
-                        "PENDLETON": "0",
-                        "WRAPPED": "0",
-                        "WILMASIRISHROVER": "0",
-                        "DYNAMICRULER": "0",
-                        "FIVESTARKIP": "0",
-                        "ROYALALBERTHALL": "0"
+                        "horse": "PENDLETON",
+                        "place1": "5",
+                        "place2": "2",
+                        "place3": "10",
+                        "place4": "0"
                     },
                     {
-                        "CAUSEWAYRUNNER": "0",
-                        "PENDLETON": "0",
-                        "WRAPPED": "0",
-                        "WILMASIRISHROVER": "0",
-                        "DYNAMICRULER": "0",
-                        "FIVESTARKIP": "0",
-                        "ROYALALBERTHALL": "0"
+                        "horse": "WRAPPED",
+                        "place1": "0",
+                        "place2": "20",
+                        "place3": "10",
+                        "place4": "0"
                     },
                     {
-                        "CAUSEWAYRUNNER": "0",
-                        "PENDLETON": "0",
-                        "WRAPPED": "0",
-                        "WILMASIRISHROVER": "0",
-                        "DYNAMICRULER": "0",
-                        "FIVESTARKIP": "0",
-                        "ROYALALBERTHALL": "0"
+                        "horse": "WILMASIRSHROVER",
+                        "place1": "0",
+                        "place2": "0",
+                        "place3": "10",
+                        "place4": "0"
                     },
                     {
-                        "CAUSEWAYRUNNER": "0",
-                        "PENDLETON": "0",
-                        "WRAPPED": "0",
-                        "WILMASIRISHROVER": "0",
-                        "DYNAMICRULER": "0",
-                        "FIVESTARKIP": "0",
-                        "ROYALALBERTHALL": "0"
+                        "horse": "DYNAMICRULER",
+                        "place1": "0",
+                        "place2": "0",
+                        "place3": "10",
+                        "place4": "0"
                     },
                     {
-                        "CAUSEWAYRUNNER": "0",
-                        "PENDLETON": "0",
-                        "WRAPPED": "0",
-                        "WILMASIRISHROVER": "0",
-                        "DYNAMICRULER": "0",
-                        "FIVESTARKIP": "0",
-                        "ROYALALBERTHALL": "0"
+                        "horse": "FIVESTARKIP",
+                        "place1": "0",
+                        "place2": "0",
+                        "place3": "10",
+                        "place4": "0"
                     },
                     {
-                        "CAUSEWAYRUNNER": "0",
-                        "PENDLETON": "0",
-                        "WRAPPED": "0",
-                        "WILMASIRISHROVER": "0",
-                        "DYNAMICRULER": "0",
-                        "FIVESTARKIP": "0",
-                        "ROYALALBERTHALL": "0"
+                        "horse": "ROYALALBERTHALL",
+                        "place1": "0",
+                        "place2": "0",
+                        "place3": "10",
+                        "place4": "0"
                     }
                 ]
             },
             {
-                "race_id": "GRD_18-12-09_2",
+                "race_id": "GRD_181209_2",
                 "risk_matrix": [
                     {
-                        "LANKYKONG": "10",
-                        "DIDDYKONG": "5",
-                        "DONKEYKONG": "0",
-                        "REPTAR": "0",
-                        "DANGERDAVE": "0",
-                        "SKIPPY": "0",
-                        "SKYFALL": "2"
+                        "horse": "DANKYKANG",
+                        "place1": "0",
+                        "place2": "0",
+                        "place3": "10",
+                        "place4": "0"
                     },
                     {
-                        "LANKYKONG": "5",
-                        "DIDDYKONG": "2",
-                        "DONKEYKONG": "0",
-                        "REPTAR": "0",
-                        "DANGERDAVE": "0",
-                        "SKIPPY": "0",
-                        "SKYFALL": "1"
+                        "horse": "DIDDYKONG",
+                        "place1": "5",
+                        "place2": "2",
+                        "place3": "10",
+                        "place4": "0"
                     },
                     {
-                        "LANKYKONG": "1",
-                        "DIDDYKONG": "1",
-                        "DONKEYKONG": "0",
-                        "REPTAR": "3",
-                        "DANGERDAVE": "0",
-                        "SKIPPY": "0",
-                        "SKYFALL": "1"
+                        "horse": "KRULE",
+                        "place1": "0",
+                        "place2": "20",
+                        "place3": "10",
+                        "place4": "0"
                     },
                     {
-                        "LANKYKONG": "0",
-                        "DIDDYKONG": "0",
-                        "DONKEYKONG": "0",
-                        "REPTAR": "0",
-                        "DANGERDAVE": "0",
-                        "SKIPPY": "0",
-                        "SKYFALL": "0"
+                        "horse": "LANKYKANG",
+                        "place1": "0",
+                        "place2": "0",
+                        "place3": "10",
+                        "place4": "0"
                     },
                     {
-                        "LANKYKONG": "0",
-                        "DIDDYKONG": "0",
-                        "DONKEYKONG": "0",
-                        "REPTAR": "0",
-                        "DANGERDAVE": "0",
-                        "SKIPPY": "0",
-                        "SKYFALL": "0"
+                        "horse": "KIMBO",
+                        "place1": "0",
+                        "place2": "0",
+                        "place3": "10",
+                        "place4": "0"
                     },
                     {
-                        "LANKYKONG": "0",
-                        "DIDDYKONG": "0",
-                        "DONKEYKONG": "0",
-                        "REPTAR": "0",
-                        "DANGERDAVE": "0",
-                        "SKIPPY": "0",
-                        "SKYFALL": "0"
+                        "horse": "CHERIO",
+                        "place1": "0",
+                        "place2": "0",
+                        "place3": "10",
+                        "place4": "0"
                     },
                     {
-                        "LANKYKONG": "0",
-                        "DIDDYKONG": "0",
-                        "DONKEYKONG": "0",
-                        "REPTAR": "0",
-                        "DANGERDAVE": "0",
-                        "SKIPPY": "0",
-                        "SKYFALL": "0"
+                        "horse": "STEED",
+                        "place1": "0",
+                        "place2": "0",
+                        "place3": "10",
+                        "place4": "0"
                     }
                 ]
             },
             {
-                "race_id": "GRD_18-12-09_3",
+                "race_id": "GRD_181209_3",
                 "risk_matrix": [
                     {
-                        "LANKYKONG": "10",
-                        "DIDDYKONG": "5",
-                        "DONKEYKONG": "0",
-                        "REPTAR": "0",
-                        "DANGERDAVE": "0",
-                        "SKIPPY": "0",
-                        "SKYFALL": "2"
+                        "horse": "CAUSEWAYRUNNER",
+                        "place1": "0",
+                        "place2": "0",
+                        "place3": "10",
+                        "place4": "0"
                     },
                     {
-                        "LANKYKONG": "5",
-                        "DIDDYKONG": "2",
-                        "DONKEYKONG": "0",
-                        "REPTAR": "0",
-                        "DANGERDAVE": "0",
-                        "SKIPPY": "0",
-                        "SKYFALL": "1"
+                        "horse": "PENDLETON",
+                        "place1": "5",
+                        "place2": "2",
+                        "place3": "10",
+                        "place4": "0"
                     },
                     {
-                        "LANKYKONG": "1",
-                        "DIDDYKONG": "1",
-                        "DONKEYKONG": "0",
-                        "REPTAR": "3",
-                        "DANGERDAVE": "0",
-                        "SKIPPY": "0",
-                        "SKYFALL": "1"
+                        "horse": "WRAPPED",
+                        "place1": "0",
+                        "place2": "20",
+                        "place3": "10",
+                        "place4": "0"
                     },
                     {
-                        "LANKYKONG": "0",
-                        "DIDDYKONG": "0",
-                        "DONKEYKONG": "0",
-                        "REPTAR": "0",
-                        "DANGERDAVE": "0",
-                        "SKIPPY": "0",
-                        "SKYFALL": "0"
+                        "horse": "WILMASIRSHROVER",
+                        "place1": "0",
+                        "place2": "0",
+                        "place3": "10",
+                        "place4": "0"
                     },
                     {
-                        "LANKYKONG": "0",
-                        "DIDDYKONG": "0",
-                        "DONKEYKONG": "0",
-                        "REPTAR": "0",
-                        "DANGERDAVE": "0",
-                        "SKIPPY": "0",
-                        "SKYFALL": "0"
+                        "horse": "DYNAMICRULER",
+                        "place1": "0",
+                        "place2": "0",
+                        "place3": "10",
+                        "place4": "0"
                     },
                     {
-                        "LANKYKONG": "0",
-                        "DIDDYKONG": "0",
-                        "DONKEYKONG": "0",
-                        "REPTAR": "0",
-                        "DANGERDAVE": "0",
-                        "SKIPPY": "0",
-                        "SKYFALL": "0"
+                        "horse": "FIVESTARKIP",
+                        "place1": "0",
+                        "place2": "0",
+                        "place3": "10",
+                        "place4": "0"
                     },
                     {
-                        "LANKYKONG": "0",
-                        "DIDDYKONG": "0",
-                        "DONKEYKONG": "0",
-                        "REPTAR": "0",
-                        "DANGERDAVE": "0",
-                        "SKIPPY": "0",
-                        "SKYFALL": "0"
+                        "horse": "ROYALALBERTHALL",
+                        "place1": "0",
+                        "place2": "0",
+                        "place3": "10",
+                        "place4": "0"
                     }
                 ]
             },
             {
-                "race_id": "GRD_18-12-09_4",
+                "race_id": "GRD_181209_4",
                 "risk_matrix": [
                     {
-                        "LANKYKONG": "10",
-                        "DIDDYKONG": "5",
-                        "DONKEYKONG": "0",
-                        "REPTAR": "0",
-                        "DANGERDAVE": "0",
-                        "SKIPPY": "0",
-                        "SKYFALL": "2"
+                        "horse": "DANKYKANG",
+                        "place1": "0",
+                        "place2": "0",
+                        "place3": "10",
+                        "place4": "0"
                     },
                     {
-                        "LANKYKONG": "5",
-                        "DIDDYKONG": "2",
-                        "DONKEYKONG": "0",
-                        "REPTAR": "0",
-                        "DANGERDAVE": "0",
-                        "SKIPPY": "0",
-                        "SKYFALL": "1"
+                        "horse": "DIDDYKONG",
+                        "place1": "5",
+                        "place2": "2",
+                        "place3": "10",
+                        "place4": "0"
                     },
                     {
-                        "LANKYKONG": "1",
-                        "DIDDYKONG": "1",
-                        "DONKEYKONG": "0",
-                        "REPTAR": "3",
-                        "DANGERDAVE": "0",
-                        "SKIPPY": "0",
-                        "SKYFALL": "1"
+                        "horse": "KRULE",
+                        "place1": "0",
+                        "place2": "20",
+                        "place3": "10",
+                        "place4": "0"
                     },
                     {
-                        "LANKYKONG": "0",
-                        "DIDDYKONG": "0",
-                        "DONKEYKONG": "0",
-                        "REPTAR": "0",
-                        "DANGERDAVE": "0",
-                        "SKIPPY": "0",
-                        "SKYFALL": "0"
+                        "horse": "LANKYKANG",
+                        "place1": "0",
+                        "place2": "0",
+                        "place3": "10",
+                        "place4": "0"
                     },
                     {
-                        "LANKYKONG": "0",
-                        "DIDDYKONG": "0",
-                        "DONKEYKONG": "0",
-                        "REPTAR": "0",
-                        "DANGERDAVE": "0",
-                        "SKIPPY": "0",
-                        "SKYFALL": "0"
+                        "horse": "KIMBO",
+                        "place1": "0",
+                        "place2": "0",
+                        "place3": "10",
+                        "place4": "0"
                     },
                     {
-                        "LANKYKONG": "0",
-                        "DIDDYKONG": "0",
-                        "DONKEYKONG": "0",
-                        "REPTAR": "0",
-                        "DANGERDAVE": "0",
-                        "SKIPPY": "0",
-                        "SKYFALL": "0"
+                        "horse": "CHERIO",
+                        "place1": "0",
+                        "place2": "0",
+                        "place3": "10",
+                        "place4": "0"
                     },
                     {
-                        "LANKYKONG": "0",
-                        "DIDDYKONG": "0",
-                        "DONKEYKONG": "0",
-                        "REPTAR": "0",
-                        "DANGERDAVE": "0",
-                        "SKIPPY": "0",
-                        "SKYFALL": "0"
-                    }
-                ]
-            },
-            {
-                "race_id": "GRD_18-12-09_5",
-                "risk_matrix": [
-                    {
-                        "LANKYKONG": "10",
-                        "DIDDYKONG": "5",
-                        "DONKEYKONG": "0",
-                        "REPTAR": "0",
-                        "DANGERDAVE": "0",
-                        "SKIPPY": "0",
-                        "SKYFALL": "2"
-                    },
-                    {
-                        "LANKYKONG": "5",
-                        "DIDDYKONG": "2",
-                        "DONKEYKONG": "0",
-                        "REPTAR": "0",
-                        "DANGERDAVE": "0",
-                        "SKIPPY": "0",
-                        "SKYFALL": "1"
-                    },
-                    {
-                        "LANKYKONG": "1",
-                        "DIDDYKONG": "1",
-                        "DONKEYKONG": "0",
-                        "REPTAR": "3",
-                        "DANGERDAVE": "0",
-                        "SKIPPY": "0",
-                        "SKYFALL": "1"
-                    },
-                    {
-                        "LANKYKONG": "0",
-                        "DIDDYKONG": "0",
-                        "DONKEYKONG": "0",
-                        "REPTAR": "0",
-                        "DANGERDAVE": "0",
-                        "SKIPPY": "0",
-                        "SKYFALL": "0"
-                    },
-                    {
-                        "LANKYKONG": "0",
-                        "DIDDYKONG": "0",
-                        "DONKEYKONG": "0",
-                        "REPTAR": "0",
-                        "DANGERDAVE": "0",
-                        "SKIPPY": "0",
-                        "SKYFALL": "0"
-                    },
-                    {
-                        "LANKYKONG": "0",
-                        "DIDDYKONG": "0",
-                        "DONKEYKONG": "0",
-                        "REPTAR": "0",
-                        "DANGERDAVE": "0",
-                        "SKIPPY": "0",
-                        "SKYFALL": "0"
-                    },
-                    {
-                        "LANKYKONG": "0",
-                        "DIDDYKONG": "0",
-                        "DONKEYKONG": "0",
-                        "REPTAR": "0",
-                        "DANGERDAVE": "0",
-                        "SKIPPY": "0",
-                        "SKYFALL": "0"
-                    }
-                ]
-            },
-            {
-                "race_id": "GRD_18-12-09_6",
-                "risk_matrix": [
-                    {
-                        "LANKYKONG": "10",
-                        "DIDDYKONG": "5",
-                        "DONKEYKONG": "0",
-                        "REPTAR": "0",
-                        "DANGERDAVE": "0",
-                        "SKIPPY": "0",
-                        "SKYFALL": "2"
-                    },
-                    {
-                        "LANKYKONG": "5",
-                        "DIDDYKONG": "2",
-                        "DONKEYKONG": "0",
-                        "REPTAR": "0",
-                        "DANGERDAVE": "0",
-                        "SKIPPY": "0",
-                        "SKYFALL": "1"
-                    },
-                    {
-                        "LANKYKONG": "1",
-                        "DIDDYKONG": "1",
-                        "DONKEYKONG": "0",
-                        "REPTAR": "3",
-                        "DANGERDAVE": "0",
-                        "SKIPPY": "0",
-                        "SKYFALL": "1"
-                    },
-                    {
-                        "LANKYKONG": "0",
-                        "DIDDYKONG": "0",
-                        "DONKEYKONG": "0",
-                        "REPTAR": "0",
-                        "DANGERDAVE": "0",
-                        "SKIPPY": "0",
-                        "SKYFALL": "0"
-                    },
-                    {
-                        "LANKYKONG": "0",
-                        "DIDDYKONG": "0",
-                        "DONKEYKONG": "0",
-                        "REPTAR": "0",
-                        "DANGERDAVE": "0",
-                        "SKIPPY": "0",
-                        "SKYFALL": "0"
-                    },
-                    {
-                        "LANKYKONG": "0",
-                        "DIDDYKONG": "0",
-                        "DONKEYKONG": "0",
-                        "REPTAR": "0",
-                        "DANGERDAVE": "0",
-                        "SKIPPY": "0",
-                        "SKYFALL": "0"
-                    },
-                    {
-                        "LANKYKONG": "0",
-                        "DIDDYKONG": "0",
-                        "DONKEYKONG": "0",
-                        "REPTAR": "0",
-                        "DANGERDAVE": "0",
-                        "SKIPPY": "0",
-                        "SKYFALL": "0"
-                    }
-                ]
-            },
-            {
-                "race_id": "GRD_18-12-09_7",
-                "risk_matrix": [
-                    {
-                        "LANKYKONG": "10",
-                        "DIDDYKONG": "5",
-                        "DONKEYKONG": "0",
-                        "REPTAR": "0",
-                        "DANGERDAVE": "0",
-                        "SKIPPY": "0",
-                        "SKYFALL": "2"
-                    },
-                    {
-                        "LANKYKONG": "5",
-                        "DIDDYKONG": "2",
-                        "DONKEYKONG": "0",
-                        "REPTAR": "0",
-                        "DANGERDAVE": "0",
-                        "SKIPPY": "0",
-                        "SKYFALL": "1"
-                    },
-                    {
-                        "LANKYKONG": "1",
-                        "DIDDYKONG": "1",
-                        "DONKEYKONG": "0",
-                        "REPTAR": "3",
-                        "DANGERDAVE": "0",
-                        "SKIPPY": "0",
-                        "SKYFALL": "1"
-                    },
-                    {
-                        "LANKYKONG": "0",
-                        "DIDDYKONG": "0",
-                        "DONKEYKONG": "0",
-                        "REPTAR": "0",
-                        "DANGERDAVE": "0",
-                        "SKIPPY": "0",
-                        "SKYFALL": "0"
-                    },
-                    {
-                        "LANKYKONG": "0",
-                        "DIDDYKONG": "0",
-                        "DONKEYKONG": "0",
-                        "REPTAR": "0",
-                        "DANGERDAVE": "0",
-                        "SKIPPY": "0",
-                        "SKYFALL": "0"
-                    },
-                    {
-                        "LANKYKONG": "0",
-                        "DIDDYKONG": "0",
-                        "DONKEYKONG": "0",
-                        "REPTAR": "0",
-                        "DANGERDAVE": "0",
-                        "SKIPPY": "0",
-                        "SKYFALL": "0"
-                    },
-                    {
-                        "LANKYKONG": "0",
-                        "DIDDYKONG": "0",
-                        "DONKEYKONG": "0",
-                        "REPTAR": "0",
-                        "DANGERDAVE": "0",
-                        "SKIPPY": "0",
-                        "SKYFALL": "0"
+                        "horse": "STEED",
+                        "place1": "0",
+                        "place2": "0",
+                        "place3": "10",
+                        "place4": "0"
                     }
                 ]
             }
         ]
     }
 ]
+ 

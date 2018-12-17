@@ -14,3 +14,15 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+
+th {
+  text-align: left
+}
+
+.matrix {
+  &__row {
+    &-item {
+      padding: 10px 20px;
+    }
+  }
+}

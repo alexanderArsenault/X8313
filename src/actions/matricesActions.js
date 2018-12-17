@@ -6,7 +6,7 @@ export function receiveMatrices(data) {
 
 export function fetchMatrices() {
   return (dispatch) => {
-    fetch('https://api.myjson.com/bins/1eafvq')
+    fetch('https://api.myjson.com/bins/w34x0')
       .then(response =>
         response.json().then(data => ({
           data: data,
@@ -16,7 +16,8 @@ export function fetchMatrices() {
       .then(response => {
         if (response.status === 200) {
           dispatch(receiveMatrices(response.data))
-          
+          dispatch(setTrack(response.data[0]))
+          dispatch(setRace(response.data[0].races[0]))
         } else {
           var flash = {
             type: 'error',

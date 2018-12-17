@@ -2,9 +2,11 @@ import React, { Component } from 'react';
 import {connect} from 'react-redux';
 import {bindActionCreators} from 'redux';
 import * as matricesActions from '../../actions/matricesActions';
-import ReactDataGrid from 'react-data-grid';
 
-class RaceCard extends Component {
+import RaceMatrix from './RaceMatrix';
+
+class RaceCard extends Component {;
+
     render(){
         if (this.props.activeRace === ''){
             return (
@@ -12,7 +14,7 @@ class RaceCard extends Component {
             )
         } else {
             return (
-                <div> {this.props.activeRace.race_id} </div>
+                <RaceMatrix />
             )
         }
     }
@@ -34,4 +36,3 @@ export default connect(
     mapStateToProps,
     mapDispatchToProps
 )(RaceCard);
-

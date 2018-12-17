@@ -11,8 +11,9 @@ import TrackTab from './Tracks/TrackTab';
 
 
 class Dashboard extends Component {
-    componentWillMount() {
-        this.props.matricesActions.fetchMatrices();
+
+    componentDidMount() {
+        this.props.matricesActions.fetchMatrices()
     }
 
     renderTrackTabs() {
@@ -26,7 +27,7 @@ class Dashboard extends Component {
     }
 
     renderRaceTabs(){
-        if (this.props.activeTrack === ''){
+        if (!this.props.activeTrack){
             return (
                 <div> No Track Selected </div>
             )
@@ -55,11 +56,11 @@ class Dashboard extends Component {
         else {
             return (
                 <div>
-                    <TabList className="tab-list--tracks">
+                    <TabList className="tabs__tracks">
                         { this.renderTrackTabs() }
                     </TabList>
 
-                    <TabList className="tab-list--races">
+                    <TabList className="tabs__races">
                         { this.renderRaceTabs() }
                     </TabList>
                     
